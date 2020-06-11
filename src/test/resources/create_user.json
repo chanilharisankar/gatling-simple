@@ -1,0 +1,12 @@
+{
+  "email":"${randomEmail}",
+  "password":"Password",
+  "passwordRepeat":"Password",
+  "securityQuestion":{
+    "id":6,
+    "question":"Paternal grandmother's first name?",
+    "createdAt":"2020-06-09T17:17:33.294Z",
+    "updatedAt":"2020-06-09T17:17:33.294Z"
+  },
+  "securityAnswer":"acd"
+}
